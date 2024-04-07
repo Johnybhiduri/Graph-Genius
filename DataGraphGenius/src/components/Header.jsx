@@ -15,7 +15,7 @@ const Header = () => {
 
   <di class="container position-relative d-flex align-items-center justify-content-between">
     <a href="index.html" class="logo d-flex align-items-center">
-      {/* <!-- <img src="assets/img/logo.png" alt=""> --> */}
+      <img src="./public/main.png" alt="GG"/>
       <h1 class="">Graph Genius</h1>
     </a>
 
